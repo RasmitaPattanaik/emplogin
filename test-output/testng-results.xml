@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1028" started-at="2019-10-03T05:48:19Z" finished-at="2019-10-03T05:48:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1028" started-at="2019-10-03T05:48:19Z" finished-at="2019-10-03T05:48:20Z">
+      <class name="com.employee.emplogin.controller.ft.AdminTest">
+        <test-method status="PASS" signature="addAdminInfoTest()[pri:0, instance:com.employee.emplogin.controller.ft.AdminTest@5ce81285]" name="addAdminInfoTest" duration-ms="725" started-at="2019-10-03T11:18:19Z" finished-at="2019-10-03T11:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAdminInfoTest -->
+        <test-method status="PASS" signature="identifyAdminUserTestElse()[pri:0, instance:com.employee.emplogin.controller.ft.AdminTest@5ce81285]" name="identifyAdminUserTestElse" duration-ms="86" started-at="2019-10-03T11:18:20Z" finished-at="2019-10-03T11:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- identifyAdminUserTestElse -->
+        <test-method status="PASS" signature="addEmplTest()[pri:1, instance:com.employee.emplogin.controller.ft.AdminTest@5ce81285]" name="addEmplTest" duration-ms="73" started-at="2019-10-03T11:18:20Z" finished-at="2019-10-03T11:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmplTest -->
+        <test-method status="PASS" signature="addAdminInfoWithCondTest()[pri:2, instance:com.employee.emplogin.controller.ft.AdminTest@5ce81285]" name="addAdminInfoWithCondTest" duration-ms="96" started-at="2019-10-03T11:18:20Z" finished-at="2019-10-03T11:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAdminInfoWithCondTest -->
+      </class> <!-- com.employee.emplogin.controller.ft.AdminTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
